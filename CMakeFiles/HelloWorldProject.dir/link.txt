@@ -1,0 +1,1 @@
+/usr/bin/c++   -Wall -Werror -std=c++14 -g   CMakeFiles/HelloWorldProject.dir/src/Log.cpp.o CMakeFiles/HelloWorldProject.dir/src/Main.cpp.o CMakeFiles/HelloWorldProject.dir/src/MyMath.cpp.o  -o HelloWorldProject 

@@ -1,0 +1,3 @@
+/home/joel/Dev/HelloWorld/CMakeFiles/rebuild_cache.dir
+/home/joel/Dev/HelloWorld/CMakeFiles/edit_cache.dir
+/home/joel/Dev/HelloWorld/CMakeFiles/HelloWorldProject.dir
