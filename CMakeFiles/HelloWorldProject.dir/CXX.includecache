@@ -6,7 +6,11 @@
 
 #IncludeRegexTransform: 
 
-/home/joel/Dev/HelloWorld/src/Main.cpp
+/home/joel/Dev/HelloWorld/src/Log.h
 iostream
 -
+
+/home/joel/Dev/HelloWorld/src/MyMath.cpp
+Log.h
+/home/joel/Dev/HelloWorld/src/Log.h
 

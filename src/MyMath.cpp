@@ -1,7 +1,7 @@
 // create simple, lightweight source file for demo purposes
 //
 
-void Log(const char* message);
+#include "Log.h"
 int Multiply(int a, int b)
 {
         Log("Multiply");

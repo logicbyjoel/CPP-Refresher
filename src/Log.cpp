@@ -1,8 +1,10 @@
 // modularize our code
 //
 #include <iostream>
-// define our custom Log func
-void Log(const char* message)
+#include "Log.h"
+
+void InitLog()
 {
-	std::cout << message << std::endl;
+    Log("Initialized Log");
 }
+

@@ -3,7 +3,9 @@
 
 CMakeFiles/HelloWorldProject.dir/src/Log.cpp.o
  /home/joel/Dev/HelloWorld/src/Log.cpp
+ /home/joel/Dev/HelloWorld/src/Log.h
 CMakeFiles/HelloWorldProject.dir/src/Main.cpp.o
  /home/joel/Dev/HelloWorld/src/Main.cpp
 CMakeFiles/HelloWorldProject.dir/src/MyMath.cpp.o
+ /home/joel/Dev/HelloWorld/src/Log.h
  /home/joel/Dev/HelloWorld/src/MyMath.cpp
